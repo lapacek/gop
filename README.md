@@ -1,2 +1,2 @@
 # gop
-Go design patterns collection
+Go design patterns collection.
