@@ -1,2 +1,2 @@
 # gop
-Go design patterns collection.
+The Go programming language design patterns collection.
